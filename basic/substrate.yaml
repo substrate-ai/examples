@@ -1,0 +1,3 @@
+project_name: examples
+hardware: cpu
+main_file_location: ./main.py
