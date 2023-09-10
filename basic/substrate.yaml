@@ -1,3 +1,4 @@
-project_name: examples
-hardware: cpu
+project_name: basic
+hardware:
+  type: cpu
 main_file_location: ./main.py
